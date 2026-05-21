@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": "com.neotv.fanremake",
+    "title": "NeoTV Fan Rebuild",
+    "version": "0.0.2",
+    "description": "Keine Beschreibung verfügbar.",
+    "logo": "https://github.com/NeoOS-TV/scaling-guacamole/releases/download/com.neotv.fanremake/0.0.2/icon.png",
+    "url": "https://github.com/NeoOS-TV/scaling-guacamole/releases/download/com.neotv.fanremake/0.0.2/com.neoos.app.tv-client-nosat-5.3.54-all.ipk"
+  }
+]
